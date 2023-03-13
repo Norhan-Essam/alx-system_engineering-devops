@@ -1,2 +1,2 @@
 #!/bin/bash 
-tr -d "Cc"
+tr 'A' 'z' | tr 'c' 'e'
